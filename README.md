@@ -6,7 +6,7 @@
 
 - Informações do livro em [dartguide.dev](http://dartguide.dev)
 - [Sumário completo](https://dartguide.dev/table-of-contents/)
-- Página do livro na [Casa do Código](https://www.casadocodigo.com.br/products/livro-dart)
+- Página do livro na [Casa do Código](https://www.casadocodigo.com.br/products/livro-dart) [CDC](https://ifsergipe-my.sharepoint.com/personal/victor_melo_ifs_edu_br/_layouts/15/onedrive.aspx?login_hint=victor%2Emelo%40ifs%2Eedu%2Ebr&FolderCTID=0x0120003881E0FE7A74174EA620C1D6134E1BD0&id=%2Fpersonal%2Fvictor%5Fmelo%5Fifs%5Fedu%5Fbr%2FDocuments%2FCurso%20e%20Estudos%20%2D%20dev%2FBook%2DcasaDoCodico%2FLivros%20de%20Mobile%2Fo%2Dguia%2Dde%2Ddart%2Dfundamentos%2Dpratica%2Dconceitos%2Davancados%2De%2Dtudo%2Dmais%2Eepub&parent=%2Fpersonal%2Fvictor%5Fmelo%5Fifs%5Fedu%5Fbr%2FDocuments%2FCurso%20e%20Estudos%20%2D%20dev%2FBook%2DcasaDoCodico%2FLivros%20de%20Mobile&parentview=0)
 
 Neste repositório você encontrará todos os códigos de exemplos do livro.
 Assim como todas as respostas de desafios propostos organizadas nas [issues](https://github.com/JHBitencourt/dart-book/issues).
