@@ -11,7 +11,7 @@
 Neste repositório você encontrará todos os códigos de exemplos do livro.
 Assim como todas as respostas de desafios propostos organizadas nas [issues](https://github.com/JHBitencourt/dart-book/issues).
 
-#### Para acesso rápido aos códigos:
+# Para acesso rápido aos códigos:
 
 1. [Sessão "Ná Prática"](https://github.com/JHBitencourt/dart-book/tree/master/code/pt_Br/na_pratica)
 2. [Sessão "É com você"](https://github.com/JHBitencourt/dart-book/tree/master/code/pt_Br/e_com_voce)
@@ -30,3 +30,5 @@ Assim como todas as respostas de desafios propostos organizadas nas [issues](htt
 15. [Capítulo 13](https://github.com/JHBitencourt/dart-book/tree/master/code/pt_Br/13_capitulo)
 16. [Capítulo 14](https://github.com/JHBitencourt/dart-book/tree/master/code/pt_Br/14_capitulo)
 17. [Capítulo 15](https://github.com/JHBitencourt/dart-book/tree/master/code/pt_Br/15_capitulo)
+18. [Sessão **Dartvsky**](https://github.com/JHBitencourt/dart-book/tree/master/code/pt_Br/na_pratica)
+
