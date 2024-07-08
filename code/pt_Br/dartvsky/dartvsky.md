@@ -2,7 +2,20 @@
 
 Olá! Este é o meu repositório dedicado ao aprendizado da linguagem **Dart**. Aqui, vou compartilhar anotações, exercícios e tudo o que estou descobrindo enquanto me aprofundo nesse mundo fascinante.
 
-Se você também está estudando Dart ou tem alguma dica legal para compartilhar, sinta-se à vontade para explorar e contribuir! Juntos, podemos aprender e crescer nessa jornada. 🚀
+ Go!🚀
+
+ **O que é isso?**
+
+Um guia para minha jornada de aprendizado Dart.
+Com exercícios, dúvidas e projetos que fiz.
+Para mostrar aos recrutadores que sou bom em Dart e estou pronto para novos desafios!
+  
+  **O que tem aqui?**
+
+Tudo que já aprendi em Dart.
+Como resolvo problemas com a linguagem.
+Meus trabalhos em Dart.
+O que aprendi com tudo isso.
 
 ---
 
