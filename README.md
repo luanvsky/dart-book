@@ -30,5 +30,5 @@ Assim como todas as respostas de desafios propostos organizadas nas [issues](htt
 15. [Capítulo 13](https://github.com/JHBitencourt/dart-book/tree/master/code/pt_Br/13_capitulo)
 16. [Capítulo 14](https://github.com/JHBitencourt/dart-book/tree/master/code/pt_Br/14_capitulo)
 17. [Capítulo 15](https://github.com/JHBitencourt/dart-book/tree/master/code/pt_Br/15_capitulo)
-18. [Sessão **Dartvsky**]([code/pt_Br/dartvsky](https://github.com/luanvsky/dart-book/tree/dd887d1048b3d2622d03977597157462768e4cc1/code/pt_Br/dartvsky))
+18. [Sessão **Dartvsky**](https://github.com/luanvsky/dart-book/tree/dd887d1048b3d2622d03977597157462768e4cc1/code/pt_Br/dartvsky)
 
